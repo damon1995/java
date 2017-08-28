@@ -6,3 +6,5 @@
 * [jdk proxy](https://github.com/damon1995/java/tree/master/work/src/main/java/com/work/proxy)
 * [Cglib proxy](https://github.com/damon1995/java/tree/master/work/src/main/java/com/work/cglib)
 * DistributedLock
+   [redis lock](https://github.com/damon1995/some-examples-of-java/tree/master/work/src/main/java/com/work/redislock)
+   [database lock]()
